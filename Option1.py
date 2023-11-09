@@ -1,8 +1,8 @@
 import PyPDF2
-import openai
+from openai import OpenAI
 
 # OpenAI API key
-openai.api_key = 'your_openai_api_key'
+client = OpenAI()
 
 # Function to divide text into batches smaller than 16000 tokens
 def split_text_into_batches(text):
@@ -22,15 +22,15 @@ def split_text_into_batches(text):
 
 # Function to identify PII using OpenAI API
 def identify_pii(text_batch):
-    response = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=text_batch,
-        max_tokens=100,
-        temperature=0,
-        top_p=1,
-        n=1
-    )
-    return response.choices[0].text.strip()
+    prompt = "Identify, group and count PII information for each group in the following text:\n" + text_batch
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a legal assistant, skilled in counting PII occurrences."},
+            {"role": "user", "content": prompt}
+            ]
+)
+    return response.choices[0].message.content
 
 # Function to process PDF and identify PII
 def process_pdf(file_path):
@@ -48,7 +48,7 @@ def process_pdf(file_path):
 
 # Main function
 def main():
-    pdf_file_path = 'path/to/your/pdf/file.pdf'
+    pdf_file_path = 'Henkel.pdf'
     identified_pii = process_pdf(pdf_file_path)
     for idx, group in enumerate(identified_pii, start=1):
         pii_list = group.split('\n')
