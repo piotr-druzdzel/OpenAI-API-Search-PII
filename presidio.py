@@ -1,23 +1,30 @@
+import pprint
 from presidio_analyzer import AnalyzerEngine
-
-text = """
-Our sustainability publications on the internet:
-🔗 www.henkel.com/sustainability/reports
-Henkel; Namthip Muanthongthae via Getty 
-Images; Nils Hendrik Müller; Peter Rigaud; 
-Henkel app available for iOS and Android:
-RgStudio via Getty Images; Westend61 via  
-Getty Images; Yagnik Gorasiya via Shutterstock
-Translation +48 605 740 496
-Hmm misiuniek@gmail.com
-Best ice cream: Zielona 15, 26-620 Warszawa
-RWS Holdings PLC 
-Matthew Shoesmith, Revelation, Hilden
-Publication date of this report
-March 7, 2023 
-"""
+from pdfminer.high_level import extract_text
 
 
+
+def extract_text_from_pdf(pdf_file):
+    """Extracts text from a PDF file.
+
+    Args:
+        pdf_file: The path to the PDF file.
+
+    Returns:
+        A string containing the text from the PDF file.
+    """
+
+    print(f"\nProcessing: {pdf_file}")
+
+    with open(pdf_file, "rb") as f:
+        text = extract_text(pdf_file)
+        return text
+
+text = extract_text_from_pdf('Henkel.pdf')
+print(text)
+
+
+print(f"\nIdentifying PII from text...")
 analyzer = AnalyzerEngine()
 analyzer_results = analyzer.analyze(text=text, language="en")
 
@@ -54,3 +61,11 @@ print()
 # Count the number of occurrences for each PII type
 for key, values in dict1.items():
     print(key, len(values))
+
+
+# Pretty print the list of dictionaries
+pp = pprint.PrettyPrinter(indent=4)
+pp.pprint(dict1)
+
+
+print(f"\nSuccessfully completed.\n")

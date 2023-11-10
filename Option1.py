@@ -1,3 +1,4 @@
+import time
 import PyPDF2
 from openai import OpenAI
 
@@ -43,6 +44,8 @@ def process_pdf(file_path):
         batches = split_text_into_batches(extracted_text)
         identified_pii = []
         for batch in batches:
+            print(f"Processing batch...")
+            time.sleep(90)
             identified_pii.append(identify_pii(batch))
         return identified_pii
 
