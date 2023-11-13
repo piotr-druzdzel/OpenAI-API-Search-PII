@@ -1,0 +1,1435 @@
+
+Processing: Henkel.pdf
+
+Processing chunk: 0
+Identified PII type: None
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 1
+Identified PII type: 
+- Name (Carsten Knobel) 
+
+List of occurrences: 
+- Carsten Knobel (1)
+
+Total sum of all found instances: 
+- 1
+
+
+Processing chunk: 2
+Identified PII type: 
+1. Names
+2. Company names
+
+List of occurrences:
+1. Henkel AG & Co. KGaA - 10 instances
+2. Henkel Group - 2 instances
+3. Henkel Management AG - 2 instances
+
+Total sum of all found instances: 14 occurrences
+
+
+Processing chunk: 3
+Identified PII type: 
+
+1. Personal Names
+2. Geographic Locations (regions and countries)
+3. Employment Percentage
+
+List of occurrences:
+
+1. Personal Names:
+    - Henkel (company name)
+    - Carsten Knobel (Chair of the Management Board)
+
+2. Geographic Locations:
+    - Eastern Europe
+    - Africa/Middle East
+    - Latin America
+    - Asia
+    - North America
+    - Western Europe
+    - Japan
+    - Australia
+    - New Zealand
+
+3. Employment Percentage:
+    - 53.3 percent
+
+Total sum of all found instances: 12 occurrences
+
+
+Processing chunk: 4
+Identified PII type: None found.
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 5
+Identified PII type: None found
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 6
+Identified PII type: 
+
+- Dates (e.g., "2021", "2022", "2010", "2017", "2016–2025", "2025", "2030")
+
+List of occurrences:
+- 2021 (1)
+- 2022 (2)
+- 2010 (2)
+- 2017 (1)
+- 2016–2025 (1)
+- 2025 (9)
+- 2030 (3)
+
+Total sum of all found instances: 19
+
+
+Processing chunk: 7
+Identified PII type: Names
+
+List of occurrences:
+1. Russia - 1
+2. Ukraine - 1
+3. Henkel - 1
+
+Total sum of all found instances: 3
+
+
+Processing chunk: 8
+Identified PII type: None
+    
+List of occurrences:
+
+    - None
+    
+Total sum of all found instances: 0
+
+
+Processing chunk: 9
+Identified PII type: None
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 10
+Identified PII type: Names
+
+List of occurrences:
+- Schwarzkopf (1 occurrence)
+- Teach First Deutschland (1 occurrence)
+- Henkel (3 occurrences)
+- Sylvie Nicol (1 occurrence)
+
+Total sum of all found instances: 6
+
+
+Processing chunk: 11
+Identified PII type: None found.
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 12
+Identified PII type: None found
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 13
+Identified PII type: 
+- Personal names (specifically, names of individuals)
+
+List of occurrences:
+- Henkel (3)
+- Audit Committee (1)
+- Audit results (1)
+- Henkel Management Board (1)
+- Corporate Audit (5)
+- Chair of the Management Board (1)
+- Stakeholders (7)
+- Sustainability issues (1)
+
+Total sum of all found instances: 21
+
+
+Processing chunk: 14
+Identified PII type: None found
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 15
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 16
+Identified PII type: Social Security Numbers (SSN)
+
+List of occurrences:
+    None found.
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 17
+Identified PII type: 
+- Personal Names
+- Organizations
+
+List of occurrences: 
+1. Intergovernmental Panel on Climate Change (IPCC)
+2. Energy Agency (IEA)
+3. El Niño
+4. Henkel
+5. MAGICC 7.5.3
+
+Total sum of all found instances: 5
+
+
+Processing chunk: 18
+Identified PII type:
+- None found in the given text.
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 19
+Identified PII type: 
+
+- None
+
+List of occurrences: 
+
+- None
+
+Total sum of all found instances: 
+
+- 0
+
+
+Processing chunk: 20
+Identified PII type: None found
+
+List of occurrences:
+
+- None found
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 21
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 22
+Identified PII type: 
+No PII occurrences found in the provided text.
+
+
+Processing chunk: 23
+Identified PII type: None 
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 24
+Identified PII type: None found.
+
+List of occurrences: N/A
+
+Total sum of all found instances: N/A
+
+
+Processing chunk: 25
+Identified PII type: None
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 26
+Identified PII type: None found
+
+List of occurrences: 
+
+- N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 27
+Identified PII type: Percentage
+
+List of occurrences:
+- 72 percent
+- 16 percent
+- 69 percent
+- 98 percent
+
+Total sum of all found instances: 4
+
+
+Processing chunk: 28
+Identified PII type: None
+
+List of occurrences: 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 29
+Identified PII type: 
+
+- Personal Names
+- Company Name
+- Product Names
+
+List of occurrences:
+
+- Personal Names: 
+  - Henkel (5 occurrences)
+  - RecyClass (1 occurrence)
+  - Ceresit (1 occurrence)
+  - Akpol (1 occurrence)
+  - Jokey (1 occurrence)
+  - Ellen MacArthur (1 occurrence)
+  - Plastic Bank (1 occurrence)
+  - Nature Box (1 occurrence)
+  
+- Company Name:
+  - RecyClass (1 occurrence)
+  - Henkel (5 occurrences)
+  - Akpol (1 occurrence)
+  - Jokey (1 occurrence)
+  - Ellen MacArthur (1 occurrence)
+  - Plastic Bank (1 occurrence)
+
+- Product Names:
+  - Loctite® Liofol (1 occurrence)
+  - Ceresit CE 50 Eco (1 occurrence)
+  - Pril dishwashing liquid (1 occurrence)
+  - Social Plastic® (4 occurrences)
+  - Nature Box (1 occurrence)
+  
+Total sum of all found instances: 28 occurrences
+
+
+Processing chunk: 30
+Identified PII type: 
+
+- Website URLs (hyperlinks)
+
+List of occurrences:
+
+- 🔗 UN Treaty: 1
+- 🔗 Pro Nature: 1
+- 🔗 Recyclate Forum: 1
+- 🔗 HolyGrail: 2
+- 🔗 Ellen MacArthur Foundation: 1
+- 🔗 Cospatox Consortium: 1
+- 🔗 Cyclos-HTP Institute: 1
+- 🔗 Circularity European Growth Fund I LP: 1
+- 🔗 Saperatec: 1
+- 🔗 Plastic Waste Reduction Bond: 1
+
+Total sum of all found instances: 11
+
+
+Processing chunk: 31
+Identified PII type: None found
+
+List of occurrences: 
+
+No instances of personally identifiable information (PII) were found in the given text.
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 32
+Identified PII type:
+- None found in the given text.
+
+List of occurrences:
+- N/A
+
+Total sum of all found instances:
+- 0
+
+
+Processing chunk: 33
+Identified PII type: None
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 34
+Identified PII type: None
+
+List of occurrences:
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 35
+Identified PII type: None
+
+List of occurrences: 
+- No personally identifiable information (PII) was found in the provided text.
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 36
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 37
+Identified PII type:
+    
+    - Locations: Names of locations or watersheds
+    
+    - Dates: Specific years (e.g., 2022, 2030, 2025)
+    
+    - Organizations: Henkel, GRI (Global Reporting Initiative), WRI (World Resource Institute), WWF (World Wildlife Fund)
+    
+    - Quantities: Numeric values indicating water consumption (e.g., 18,000 cubic meters, 35%, 25%)
+    
+List of occurrences:
+
+    Locations:
+        - Production sites
+        - Local supply networks
+        - Cannon Falls, USA
+        
+    Dates:
+        - 2020
+        - 2022
+        - 2030
+        - 2025
+        - 2010
+        
+    Organizations:
+        - Henkel
+        - GRI (Global Reporting Initiative)
+        - WRI (World Resource Institute)
+        - WWF (World Wildlife Fund)
+        
+    Quantities:
+        - 18,000 cubic meters
+        - 35%
+        - 25%
+        - 1,100 MWh
+        
+Total sum of all found instances:
+    
+    - Locations: 4 occurrences
+    - Dates: 5 occurrences
+    - Organizations: 4 occurrences
+    - Quantities: 4 occurrences
+
+
+Processing chunk: 38
+Identified PII type:
+
+- Personal names (e.g., Henkel)
+
+List of occurrences:
+
+- Henkel (1 instance)
+
+Total sum of all found instances:
+
+- 1
+
+
+Processing chunk: 39
+Identified PII type: None found
+
+List of occurrences: 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 40
+Identified PII type: Personal Names
+
+List of occurrences:
+1. Sylvie Nicol
+2. Henkel
+
+Total sum of all found instances: 2
+
+
+Processing chunk: 41
+Identified PII type: None found
+
+List of occurrences: 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 42
+Identified PII type: Employees' personal information
+
+List of occurrences:
+
+1. Henkel
+2. 51,200
+3. 2,000
+4. 1,000
+5. 12/31/2022
+6. 47, 68
+7. 49, 70
+8. Management Board members
+
+Total sum of all found instances: 8
+
+
+Processing chunk: 43
+Identified PII type: 
+- Employee names
+
+List of occurrences:
+1. Henkel - 6 occurrences
+2. Allianz Insurance Group - 1 occurrence
+3. Industrial Union for Mining, Chemicals and Energy - 1 occurrence
+4. Solidaridad - 1 occurrence
+
+Total sum of all found instances: 9 instances of PII
+
+
+Processing chunk: 44
+Identified PII type: 
+- Diversity, Equity & Inclusion (DEI)
+- Business for Inclusive Growth (B4IG)
+- Organization for Economic Cooperation and Development (OECD)
+- Diversity Charter
+- Statista and the Financial Times
+- Henkel
+- Women in management
+- Managers
+- Corporate Senior Vice Presidents
+- Success Factor Family
+- Federal Ministry of Family Affairs
+
+List of occurrences:
+- Diversity, Equity & Inclusion (DEI): 5 occurrences
+- Business for Inclusive Growth (B4IG): 1 occurrence
+- Organization for Economic Cooperation and Development (OECD): 1 occurrence
+- Diversity Charter: 1 occurrence
+- Statista and the Financial Times: 1 occurrence
+- Henkel: 7 occurrences
+- Women in management: 1 occurrence
+- Managers: 1 occurrence
+- Corporate Senior Vice Presidents: 1 occurrence
+- Success Factor Family: 1 occurrence
+- Federal Ministry of Family Affairs: 1 occurrence
+
+Total sum of all found instances: 21 instances
+
+
+Processing chunk: 45
+Identified PII type: 
+- Names (personal identifiers)
+- Sexual orientation
+- Gender identity
+- Nationalities
+
+List of occurrences:
+- Names: German Trade Union Federation (DGB), Henkel, Henkel dx Ventures, Xathon, Pipeline Boost Program, UN standards of conduct
+- Sexual orientation: LGBTQ+
+- Gender identity: transgender
+- Nationalities: 124 countries
+
+Total sum of all found instances: 
+
+- Names: 6
+- Sexual orientation: 1
+- Gender identity: 1
+- Nationalities: 124
+
+
+Processing chunk: 46
+Identified PII type: 
+- Age (25.2, 14.0, 32.5, 28.2)
+- Dates (12/31/2022)
+
+List of occurrences:
+- 25.2%, 14.0%, 32.5%, 28.2%
+- 12/31/2022
+
+Total sum of all found instances: 5
+
+
+Processing chunk: 47
+Identified PII type: Personal Identifiable Information
+
+List of occurrences:
+1. Human rights due diligence - 8 occurrences
+2. German Act on Corporate Due Diligence in Supply Chains - 1 occurrence
+3. Due diligence obligations - 2 occurrences
+4. UN Guiding Principles on Business and Human Rights - 3 occurrences
+5. Internal cross-functional core team - 3 occurrences
+6. UN Guiding Principles - 2 occurrences
+7. Protect, Respect, Remedy framework - 1 occurrence
+8. OECD Due Diligence Guidance - 1 occurrence
+9. Universal Declaration of Human Rights - 1 occurrence
+10. International Labour Organization's Declaration on the Fundamental Principles and Rights at Work - 1 occurrence
+11. Code of Conduct - 2 occurrences
+12. Code of Corporate Sustainability - 1 occurrence
+13. Social Standards - 1 occurrence
+14. Safety, Health and Environment (SHE) Standards - 1 occurrence
+15. Responsible Sourcing Policy - 1 occurrence
+
+Total sum of all found instances: 30
+
+
+Processing chunk: 48
+Identified PII type: 
+- Personal Information
+
+List of occurrences:
+1. "government" (line 2)
+2. "codes and standards" (lines 5, 10, 11)
+3. "occupational health and safety" (line 8)
+4. "data protection" (line 9)
+5. "non-discrimination" (line 9)
+6. "working conditions" (line 9)
+7. "freedom of association and collective bargaining" (line 9)
+8. "child and forced labor" (line 9)
+9. "supply chain" (lines 11, 13, 15, 16, 21, 22, 26)
+10. "risks" (lines 12, 14, 16, 19, 21, 22, 24)
+11. "business" (lines 17, 21, 22, 24, 25, 26, 29, 33)
+12. "sustainability risks" (line 17)
+13. "palm oil industry" (line 19)
+14. "Roundtable on Sustainable Palm Oil (RSPO)" (line 19)
+15. "stakeholders" (line 22)
+16. "human rights" (lines 24, 27, 30, 35, 39)
+17. "conflict minerals" (line 29)
+18. "suppliers" (lines 31, 34, 35)
+19. "due diligence" (lines 34, 35)
+20. "compliance" (lines 37, 44)
+21. "complaints mechanisms" (line 41)
+
+Total sum of all found instances: 21 occurrences of PII
+
+
+Processing chunk: 49
+Identified PII type: 
+- Name (employee names)
+- Job title/position
+
+List of occurrences:
+
+1. Identified PII type: Name
+   - "Henkel’s business operations" - Henkel (1 occurrence)
+   - "Newly developed Sustain-ability at Heart program" - Heart (1 occurrence)
+   - "Schwarzkopf Million Chances Award presented" - Schwarzkopf (1 occurrence)
+    
+2. Identified PII type: Job title/position
+   - "employees participated in the new Sustainability Pioneer training" - Sustainability Pioneer (1 occurrence)
+
+Total sum of all found instances: 4 occurrences
+
+
+Processing chunk: 50
+Identified PII type: 
+- Employee names
+- Role titles
+- Company name
+
+List of occurrences:
+- Employee names: 
+    - Henkel (1)
+- Role titles: 
+    - trainees (2)
+    - managers (1)
+- Company name: 
+    - Henkel (3)
+
+Total sum of all found instances: 7
+
+
+Processing chunk: 51
+Identified PII type: 
+- Names
+- Dates
+- Locations
+- Organization names
+
+List of occurrences: 
+- COVID-19 pandemic
+- Henkel
+- LinkedIn Learning
+- Sustainability at Heart program
+- Cyber Awareness Month
+- IESE Business School
+- MIT Volunteering initiative
+- Our sites
+- Our customers
+
+Total sum of all found instances: 10
+
+
+Processing chunk: 52
+Identified PII type: 
+- Names (first and last names): Fritz Henkel, Henkel
+
+List of occurrences:
+- Fritz Henkel (1 occurrence)
+- Henkel (4 occurrences)
+
+Total sum of all found instances: 5
+
+
+Processing chunk: 53
+Identified PII type: 
+- Names
+
+List of occurrences:
+1. Henkel (company name) - 8 instances
+2. Ukraine (country name) - 2 instances
+3. Berlin (place name) - 1 instance
+4. Bonn (place name) - 1 instance
+5. Connecticut (place name) - 1 instance
+6. Ohio (place name) - 1 instance
+7. Habitat for Humanity (NGO name) - 2 instances
+8. Warsaw (place name) - 1 instance
+9. RhineCleanUp (environmental organization name) - 1 instance
+10. Blockblocks Cleanup GmbH (organization name) - 1 instance
+11. ReDI School of Digital Integration (educational institution name) - 1 instance
+12. Teach First Deutschland (educational initiative name) - 1 instance
+13. Fritz Henkel Stiftung (foundation name) - 2 instances
+14. Teach for All (organization name) - 1 instance
+15. Fritz Henkel Foundation (foundation name) - 10 instances
+16. Argentina (country name) - 1 instance
+17. Austria (country name) - 1 instance
+18. Brazil (country name) - 1 instance
+19. Canada (country name) - 1 instance
+20. China (country name) - 1 instance
+21. Colombia (country name) - 1 instance
+22. India (country name) - 1 instance
+23. Italy (country name) - 1 instance
+24. Kenya (country name) - 1 instance
+25. Latvia (country name) - 1 instance
+26. US (country name) - 1 instance
+27. Vietnam (country name) - 1 instance
+
+Total sum of all found instances: 45
+
+
+Processing chunk: 54
+Identified PII type: 
+
+1. Names (individuals and organizations)
+2. Locations (countries)
+3. Dates (years)
+
+List of occurrences:
+
+1. Million Chances initiative - 3 occurrences
+2. Shaping Futures - 1 occurrence
+3. Schwarzkopf Professional - 1 occurrence
+4. Schwarzkopf Million Chances initiative - 1 occurrence
+5. Plan International Deutschland e.V. - 1 occurrence
+6. Cambodia - 1 occurrence
+7. Colombia - 2 occurrences
+8. India - 1 occurrence
+9. Lebanon - 1 occurrence
+10. South Africa - 1 occurrence
+11. 15 projects - 1 occurrence
+12. 2,320 girls and women - 1 occurrence
+13. 138,300 people - 1 occurrence
+14. Pritt brand - 1 occurrence
+15. Ukraine - 3 occurrences
+16. Habitat for Humanity - 1 occurrence
+17. Henkel business units - 1 occurrence
+18. Fritz Henkel Stiftung - 2 occurrences
+19. Aktion Deutschland Hilft e.V. - 2 occurrences
+20. Italy - 1 occurrence
+21. Turkey - 1 occurrence
+22. Brazil - 1 occurrence
+23. Mexico - 1 occurrence
+24. Persil - 1 occurrence
+25. drugstore chain Rossmann - 1 occurrence
+26. Naturkinder initiative - 1 occurrence
+27. North America - 1 occurrence
+28. Puerto Rico - 1 occurrence
+29. Pakistan - 1 occurrence
+30. American Red Cross - 1 occurrence
+31. Canadian Red Cross - 1 occurrence
+32. CARE Pakistan - 1 occurrence
+33. COVID-19 - 1 occurrence
+
+Total sum of all found instances: 33 occurrences
+
+
+Processing chunk: 55
+Identified PII types:
+
+1. Name: None found
+2. Social Security Number (SSN): None found
+3. Date of Birth: None found
+4. Address: None found
+5. Phone Number: None found
+6. Email Address: None found
+
+List of occurrences:
+None found
+
+Total sum of all found instances:
+0
+
+
+Processing chunk: 56
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 57
+Identified PII type: 
+- Employees' personal data including names and employment information
+
+List of occurrences:
+1. Henkel employees (mentioned multiple times)
+2. Temporary employees (mentioned once)
+3. Staff hired through an agency or third party and supervised by Henkel (mentioned once)
+4. Henkel employees (mentioned multiple times)
+5. Employees and contractors (mentioned once)
+6. Employees (mentioned multiple times)
+7. Employees and contractors (mentioned once)
+
+Total sum of all found instances: 10
+
+
+Processing chunk: 58
+Identified PII type: 
+- Personal names
+- Email addresses
+
+List of occurrences:
+
+1. Personal names: 
+- Sales and merchandising employees (1)
+- Global Safety Team (1)
+- Henkel (3)
+
+2. Email addresses: 
+- No occurrences found
+
+Total sum of all found instances: 
+- Personal names: 5
+- Email addresses: 0
+
+
+Processing chunk: 59
+Identified PII type: 
+
+- Personal Identifiable Information (PII)
+
+List of occurrences:
+
+- PERFORMANCE: 2 occurrences
+
+- TRANSPARENCY: 2 occurrences
+
+- COLLABORATION: 1 occurrence
+
+Total sum of all found instances: 5 PII occurrences
+
+
+Processing chunk: 60
+Identified PII type: 
+- Names (personal and company)
+
+List of occurrences:
+- Henkel (1 occurrence)
+- Pril (1 occurrence)
+- Plastic Bank (2 occurrences)
+- German Brand Award (1 occurrence)
+- Pro Nature (1 occurrence)
+- Love Nature (3 occurrences)
+- Schauma (1 occurrence)
+- Dial (1 occurrence)
+- Igora (1 occurrence)
+- Live (1 occurrence)
+- Brilliance (1 occurrence)
+- Natural & Easy (1 occurrence)
+- Authentic Beauty Concept (1 occurrence)
+
+Total sum of all found instances: 15 occurrences
+
+
+Processing chunk: 61
+Identified PII type: 
+
+- Personal Names
+- Company Names
+
+List of occurrences: 
+
+1. Personal Names: 
+- Nature Box
+- Adhesive Technologies
+- Solidaridad
+- Solvay
+- Henkel
+
+2. Company Names: 
+- Dial
+- Loctite® Liofol
+- BASF
+- Wentus
+- Saperatec
+- Bonderite
+
+Total sum of all found instances: 11 PII occurrences
+
+
+Processing chunk: 62
+Identified PII type: None found
+
+List of occurrences: 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 63
+Identified PII type: None found
+
+List of occurrences: 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 64
+Identified PII type:
+
+- Names
+- Dates
+- Company names
+- Addresses
+- Job titles
+- Website links
+- Numbers
+
+List of occurrences:
+- Henkel: 6
+- 2009: 1
+- Europe: 1
+- REACH regulation: 2
+- EPAA (European Partnership for Alternative Approaches to Animal Testing): 1
+- Organization for Economic Cooperation and Development (OECD): 1
+- 2022: 2
+
+Total sum of all found instances: 14
+
+
+Processing chunk: 65
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 66
+Identified PII type: None
+
+List of occurrences: 
+
+- None 
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 67
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 68
+Identified PII type: None.
+    
+List of occurrences: None.
+
+Total sum of all found instances: 0.
+
+
+Processing chunk: 69
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 70
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 71
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 72
+Identified PII type: Names, Organizations
+
+List of occurrences: 
+- Henkel: 23
+- EcoVadis: 2
+- ISS ESG: 2
+- Sustainalytics: 2
+- MSCI: 2
+- ECPI: 8
+- Solactive: 3
+- Euronext: 2
+- Vigeo Eiris: 1
+- FTSE4Good: 1
+- Financial Times: 1
+- London Stock Exchange: 1
+- Börse Hannover: 1
+- Carbon Disclosure Project (CDP): 1
+- Corporate Knights: 1
+- Love Nature: 3
+- German Brand Award: 1
+- GS1 Germany: 1
+- TÜV Nord: 1
+
+Total sum of all found instances: 60
+
+
+Processing chunk: 73
+Identified PII type: 
+- Company name (Henkel)
+- Product name (Taft Styling Mousse)
+- Acronym (FEA)
+- Organization name (Schneider Electric)
+- Initiative name (Zero Carbon Project)
+- Supplier name (Novozymes)
+
+List of occurrences:
+- Company name (Henkel): 5 occurrences
+- Product name (Taft Styling Mousse): 1 occurrence
+- Acronym (FEA): 2 occurrences
+- Organization name (Schneider Electric): 2 occurrences
+- Initiative name (Zero Carbon Project): 2 occurrences
+- Supplier name (Novozymes): 1 occurrence
+
+Total sum of all found instances: 13 occurrences
+
+
+Processing chunk: 74
+Identified PII type: 
+
+- Names
+- Job titles
+- Organization names
+
+List of occurrences:
+
+- Chief Procurement Officer (CPO)
+- Chief Financial Officer (CFO)
+- German Association of Materials Management, Purchasing, and Logistics (BME)
+- UN Global Compact
+- Henkel
+- Deutsche Bank
+- SAP
+
+Total sum of all found instances: 7
+
+
+Processing chunk: 75
+Identified PII type: None
+
+List of occurrences:
+- N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 76
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 77
+Identified PII type: 
+1. Names (e.g. Henkel, TfS, EcoVadis)
+
+List of occurrences:
+1. Henkel - 6 occurrences
+2. TfS - 7 occurrences
+3. EcoVadis - 2 occurrences
+
+Total sum of all found instances: 15 occurrences
+
+
+Processing chunk: 78
+Identified PII type:
+- Corporate member names (National Minority Supplier Development Council, Women-owned or Minority-owned Business Enterprise)
+- Suppliers and organizations names (TfS, AIM-PROGRESS, Action for Sustainable Derivatives)
+- Henkel employee titles (Sustainability Ambassador, Sustainability Pioneer)
+
+List of occurrences:
+- Corporate member names: National Minority Supplier Development Council (1), Women-owned or Minority-owned Business Enterprise (1)
+- Suppliers and organizations names: TfS (1), AIM-PROGRESS (1), Action for Sustainable Derivatives (1)
+- Henkel employee titles: Sustainability Ambassador (1), Sustainability Pioneer (1)
+
+Total sum of all found instances: 6
+
+
+Processing chunk: 79
+Identified PII type: 
+- Organization Names
+
+List of occurrences:
+- Solidaridad (x2)
+- Plastic Bank (x3)
+- Henkel (x3)
+- PEM Motion (x1)
+- RWTH Aachen University (x1)
+- SDG Challenge (x1)
+- 3RT (x1)
+- German Sustainability Award (x1)
+- Stiftung Deutscher Nachhaltigkeitspreis e.V. (x1)
+- German Federal Government (x1)
+- German Council for Sustainability (x1)
+
+Total sum of all found instances: 16
+
+
+Processing chunk: 80
+Identified PII type: 
+- Employee indicators (e.g. occupational accidents, coverage of employees)
+
+List of occurrences:
+- Employee indicators: 6
+- Coverage of employees: 2
+
+Total sum of all found instances: 8
+
+
+Processing chunk: 81
+Identified PII type: CO2 emissions, CO2 equivalent, metric tons
+
+List of occurrences:
+1. Raw materials - 0 instances
+2. Production - 0 instances
+3. Logistics - 0 instances
+4. Use - 25,793 instances
+5. Disposal/Recycling - 1,687 instances
+6. Direct CO2 emissions (Scope 1) - 284 instances
+7. Indirect CO2 emissions (Scope 2) - 114 instances
+8. Indirect emissions in CO2 equivalents (Scope 3) - 38,724 instances
+9. Energy use at our production sites - 284 instances
+10. Bought-in energy (electricity, steam) - 114 instances
+11. Production waste - 17 instances
+12. Business travel - 55 instances
+13. Chemicals - 8,677 instances
+14. Packing - 1,653 instances
+15. Raw materials transportation - 230 instances
+16. Transportation of our products - 612 instances
+17. Use of our products - 25,793 instances
+18. Disposal of our products - 1,687 instances
+19. Total - 39,122 instances
+
+Total sum of all found instances: 39,122 instances
+
+
+Processing chunk: 82
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 83
+Identified PII type: Employee indicators (e.g., number of employees, employee resignations, employee fluctuation, employee seniority and age)
+
+List of occurrences:
+- Number of non-managerial employees (2018-2022)
+- Number of managers (2018-2022)
+- Number of top managers (2018-2022)
+- Employee resignations (based on employee resignations) (2018-2022)
+- Average seniority in years (2018-2022)
+- Average age of employees in years (2018-2022)
+- Age structure (16-29, 30-39, 40-49, from 50) (2018-2022)
+- Employee headcount (2018-2022)
+
+Total sum of all found instances: 34 occurrences.
+
+
+Processing chunk: 84
+Identified PII type: None
+
+List of occurrences: N/A
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 85
+Identified PII type: None found
+
+List of occurrences: N/A
+
+Total sum of all found instances: N/A
+
+
+Processing chunk: 86
+Identified PII type: None found in the text.
+
+List of occurrences: N/A
+
+Total sum of all found instances: N/A
+
+
+Processing chunk: 87
+Identified PII type: 
+- Personal injuries
+- Fatal accident
+- Emergency shut-off switch
+- Victim
+- Family
+- Nigerian government
+- Extensive property damage
+- Fire alarm
+- Extinguishing water
+- Investigation team
+- Crisis management team
+- Fire
+- Damage to people or the environment
+- Employees suffered burns
+- Hospital
+- Families and relations
+
+List of occurrences:
+- Personal injuries: 0
+- Fatal accident: 1
+- Emergency shut-off switch: 1
+- Victim: 1
+- Family: 1
+- Nigerian government: 1
+- Extensive property damage: 1
+- Fire alarm: 1
+- Extinguishing water: 1
+- Investigation team: 1
+- Crisis management team: 1
+- Fire: 3
+- Damage to people or the environment: 1
+- Employees suffered burns: 2
+- Hospital: 1
+- Families and relations: 3
+
+Total sum of all found instances: 19
+
+
+Processing chunk: 88
+Identified PII type: None found
+    
+List of occurrences: 
+    
+    - None found
+    
+Total sum of all found instances: 0
+
+
+Processing chunk: 89
+Identified PII type: Date
+
+List of occurrences:
+- January 1, 2022 (Financial report period)
+- December 31, 2022 (Financial report period)
+- March 7, 2023 (Publication date of sustainability report)
+
+Total sum of all found instances: 3
+
+
+Processing chunk: 90
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 91
+Identified PII type: Page numbers
+
+List of occurrences:
+- Sustainability Report 2022 (p. 75 – 88)
+- Sustainability Report 2022 (p. 89 – 97)
+- Sustainability Report 2022 (p. 98 – 103)
+- Sustainability Report 2022 (p. 106 – 114)
+- Sustainability Report 2022 (p. 115 – 123)
+- Sustainability Report 2022 (p. 126 – 136)
+- Sustainability Report 2022 (p. 06 – 07)
+- Sustainability Report 2022 (p. 10 – 32)
+- Sustainability Report 2022 (p. 35 – 49)
+- Sustainability Report 2022 (p. 126 – 131)
+- Sustainability Report 2022 (p. 89 – 93)
+- Sustainability Report 2022 (p. 29 – 30)
+- Sustainability Report 2022 (p. 29 – 30)
+- Sustainability Report 2022 (p. 47 – 49)
+- Annual Report 2022 (p. 147 – 149)
+- Sustainability Report 2022 (p. 139 – 143)
+- Sustainability Report 2022 (p. 140)
+- Sustainability Report 2022 (p. 140)
+- Sustainability Report 2022 (p. 38 – 42)
+- Sustainability Report 2022 (p. 107 – 110)
+- Sustainability Report 2022 (p. 67 – 72)
+
+Total sum of all found instances: 21
+
+
+Processing chunk: 92
+Identified PII type:
+- None found in the provided text
+
+List of occurrences:
+- None
+
+Total sum of all found instances:
+- 0
+
+
+Processing chunk: 93
+Identified PII type:
+- No PII occurrences were found in the provided text.
+
+List of occurrences:
+- N/A
+
+Total sum of all found instances:
+- N/A
+
+
+Processing chunk: 94
+Identified PII type: Personal Identifiable Information (PII)
+
+List of occurrences:
+
+- 166: Appears as a number in between text.
+
+Total sum of all found instances: 166
+
+
+Processing chunk: 95
+Identified PII type: 
+
+- Gender (female/male)
+
+List of occurrences:
+1. Proportion of women in the first two management levels below the Management Board: mentioned in the Annual Report 2022 (S. 70–72), Corporate governance/Corporate governance statement/Targets for the proportion of women in the first two management levels below the Management Board / Adherence to minimum requirements when composing Management and Supervisory Boards
+2. Gender, age and origin of Management Board members: mentioned in the Annual Report 2022 (p. 72–85), Corporate governance/Corporate governance statement/Diversity considerations
+
+Total sum of all found instances: 2
+
+
+Processing chunk: 96
+Identified PII type: None found.
+
+List of occurrences:
+
+    Total sum of all found instances: 0
+
+
+Processing chunk: 97
+Identified PII type:
+- Personal Identifiable Information (PII)
+
+List of occurrences:
+- Henkel AG & Co. KGaA, Düsseldorf
+- PricewaterhouseCoopers GmbH
+- European Parliament and Council Regulation
+- HGB (“Handelsgesetzbuch”)
+- Article 8 of REGULATION (EU) 2020/852 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2020 on establishing a framework to facilitate sustainable investment and amending Regulation (EU) 2019/2088 (hereinafter the “EU Taxonomy Regulation”)
+- Henkel AG & Co. KGaA, Düsseldorf
+- PricewaterhouseCoopers GmbH
+- German Commercial Code
+- European Parliament and Council Regulation
+- EU Taxonomy Regulation
+- Dutch Corporate Governance Code
+- Institut der Wirtschaftsprüfer (Institute of Public Auditors in Germany; IDW)
+- IDW Qualitätssicherungsstandard 1: Anforderungen an die Qualitätsicherung in der Wirtschaftsprüferpraxis – IDW QS 1
+
+Total sum of all found instances: 14
+
+
+Processing chunk: 98
+Identified PII type: None
+
+List of occurrences: None
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 99
+Identified PII type: None found.
+
+List of occurrences: None found.
+
+Total sum of all found instances: 0
+
+
+Processing chunk: 100
+Identified PII type: None found.
+
+List of occurrences: None found.
+
+Total sum of all found instances: 0
